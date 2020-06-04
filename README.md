@@ -447,12 +447,12 @@ print 'It took ' + i + ' iterations to sort the deck.';</code></pre>
 			</footer>
 
 		<!-- Scripts -->
-			<script src="Portfolio/assets/js/jquery.min.js"></script>
-			<script src="Portfolio/assets/js/jquery.poptrox.min.js"></script>
-			<script src="Portfolio/assets/js/browser.min.js"></script>
-			<script src="Portfolio/assets/js/breakpoints.min.js"></script>
-			<script src="Portfolio/assets/js/util.js"></script>
-			<script src="Portfolio/assets/js/main.js"></script>
+			<script src="Portfolio/WebContent/assets/js/jquery.min.js"></script>
+			<script src="Portfolio/WebContent/assets/js/jquery.poptrox.min.js"></script>
+			<script src="Portfolio/WebContent/assets/js/browser.min.js"></script>
+			<script src="Portfolio/WebContent/assets/js/breakpoints.min.js"></script>
+			<script src="Portfolio/WebContent/assets/js/util.js"></script>
+			<script src="Portfolio/WebContent/assets/js/main.js"></script>
 
 	</body>
 </html>
