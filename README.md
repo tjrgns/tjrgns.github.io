@@ -1,3 +1,5 @@
+<%@ page language="java" contentType="text/html; charset=EUC-KR"
+    pageEncoding="UTF-8"%>
 <!DOCTYPE HTML>
 <html>
 	<head>
@@ -447,12 +449,12 @@ print 'It took ' + i + ' iterations to sort the deck.';</code></pre>
 			</footer>
 
 		<!-- Scripts -->
-			<script src="assets/js/jquery.min.js"></script>
-			<script src="assets/js/jquery.poptrox.min.js"></script>
-			<script src="assets/js/browser.min.js"></script>
-			<script src="assets/js/breakpoints.min.js"></script>
-			<script src="assets/js/util.js"></script>
-			<script src="assets/js/main.js"></script>
+			<script src="Portfolio/assets/js/jquery.min.js"></script>
+			<script src="Portfolio/assets/js/jquery.poptrox.min.js"></script>
+			<script src="Portfolio/assets/js/browser.min.js"></script>
+			<script src="Portfolio/assets/js/breakpoints.min.js"></script>
+			<script src="Portfolio/assets/js/util.js"></script>
+			<script src="Portfolio/assets/js/main.js"></script>
 
 	</body>
 </html>
